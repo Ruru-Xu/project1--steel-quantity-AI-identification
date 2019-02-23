@@ -6,10 +6,8 @@ I am currently participating in a competition.
 
 The background of the competition : 
 
-```
-At the construction site, the acceptance personnel shall manually count the number of rebars loaded on the trucks entering the site, and the trucks can unload only after the quantity is confirmed. Manual counting is currently used at the site,
-The process is tedious, labor-intensive and slow (usually it takes several hours to count a truckload of rebars). In order to solve the above problems, we hope to accomplish this task intelligently and efficiently through mobile phone photographing-> target detection and counting-> manual little errors modification
-```
+*At the construction site, the acceptance personnel shall manually count the number of rebars loaded on the trucks entering the site, and the trucks can unload only after the quantity is confirmed. Manual counting is currently used at the site,*
+*The process is tedious, labor-intensive and slow (usually it takes several hours to count a truckload of rebars). In order to solve the above problems, we hope to accomplish this task intelligently and efficiently through mobile phone photographing-> target detection and counting-> manual little errors modification*
 
 I have tried：
 
