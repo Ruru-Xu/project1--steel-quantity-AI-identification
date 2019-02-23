@@ -9,7 +9,7 @@ Not so much nonsense, follow my steps
   conda activate Mmdetection
   ```
 
-  ![1550918509219](img/1.png)
+  ![1550925579972](img/1550925579972.png)
 
   Install some necessary packages
 
@@ -23,7 +23,7 @@ pip install cython
 python setup.py install #Install mmdetection
 ```
 
-![1550919028731](img/2.png)
+![1550925604767](img/1550925604767.png)
 
 - ## Making our own datasets:  Coco format
 
@@ -31,7 +31,7 @@ python setup.py install #Install mmdetection
 
   The other three folders store test sets, training sets, and validation sets.
 
-  ![1550919364441](img/3.png)
+  ![1550925654468](img/1550925654468.png)
 
   For information on how to make a coco format dataset, please refer to my three .py files.
 
