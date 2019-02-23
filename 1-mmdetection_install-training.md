@@ -89,7 +89,7 @@ There are some parameters in the inference.py file that need to be changed,like 
 
 - ## visualization
 
-  refer to my three show_bboxes.py file
+  refer to my show_bboxes.py file
 
 ![1550921876643](img/1550921876643.png)
 
