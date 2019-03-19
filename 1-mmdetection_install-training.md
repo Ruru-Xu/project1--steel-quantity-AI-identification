@@ -36,7 +36,7 @@ python setup.py install #Install mmdetection
   For information on how to make a coco format dataset, please refer to my three .py files.
 
 ```
-pascal_voc_xml2json.py
+pascal_voc_xml2json.py #发现单类没问题，多类别这个文件有问题
 
 test_coco.py
 
